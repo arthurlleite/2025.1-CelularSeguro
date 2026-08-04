@@ -20,7 +20,7 @@ O objetivo central do projeto é conduzir uma avaliação detalhada dos requisit
 
 ## Documentação
 
-Link para a nossa documentação do projeto: [Clique Aqui](https://requisitos-de-software.github.io/2025.1-CelularSeguro/) <br>
+Link para a nossa documentação do projeto: [Clique Aqui](https://arthurlleite.github.io/2025.1-CelularSeguro/) <br>
 
 ## Equipe
 

@@ -8,13 +8,13 @@
 </div>
 <div align="center">
 <p style="text-align: center; margin-bottom: 50px;">
-  <b>Fonte: <a href="https://www.gov.br/pt-br/apps/celular-seguro-br ">Gov.br </a> , 2025</b>
+  <b>Fonte: <a href="https://www.gov.br/pt-br/apps/celular-seguro-br ">Gov.br </a> , 2026</b>
 </p>
 </div>
 
 ## Sobre o projeto
 
-Este repositório é dedicado à documentação de todos os artefatos criados pelo Grupo 03 no primeiro semestre de 2025, na disciplina de Requisitos de Software da Faculdade de Ciências e Tecnologias em Engenharia da Universidade de Brasília (FCTE-UnB).
+Este repositório é dedicado à documentação de todos os artefatos criados pela equipe de Engenheiros de Software.
 
 O objetivo central do projeto é conduzir uma avaliação detalhada dos requisitos do aplicativo Celular Seguro, oferecido pelo governo federal para facilitar o acesso a serviços relacionados à segurança e bloqueio de dispositivos móveis em casos de perda, roubo ou furto.
 
